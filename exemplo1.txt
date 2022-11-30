@@ -1,1 +1,3 @@
 Primeiros passos com versionamento em GIT
+
+Estudando os comandos git
