@@ -1,1 +1,3 @@
-Você verá a mesma mensagem que foi exibida no slide anterior, dizendo que é necessário adicionar o arquivo que foi modificado a área de stage para, então ser confirmada a modificação com o commit. 
+Você verá a mesma mensagem que foi exibida no slide anterior, dizendo que é necessário adicionar o arquivo que foi modificado a área de stage para, então ser confirmada a modificação com o commit.
+
+Modificando
